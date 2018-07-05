@@ -1,0 +1,21 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "app.healthapp.india"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "app.healthapp.india"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "app.healthapp.india"
+        }
+    },
+    "dependent_plugins": {}
+}
